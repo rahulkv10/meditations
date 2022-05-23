@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006120942283",
+    "project_id": "yellow-ad145",
+    "storage_bucket": "yellow-ad145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006120942283:android:e1b716679862dee3f0f94e",
+        "android_client_info": {
+          "package_name": "com.capeofgoodapps.yellow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006120942283-isholdfccutrj2ecdlifmcs8ji8n2ihn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_sruIIBWpoiiT42WqWHXy8ZrchmLbVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006120942283-isholdfccutrj2ecdlifmcs8ji8n2ihn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
